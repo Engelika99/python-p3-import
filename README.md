@@ -111,8 +111,7 @@ To activate the REPL run `python` in the terminal.
 
 Let's assume that there is a function called `function1()` in each module:
 
-```bash
-$ python
+```bash python
 >>> from package1 import module1
 >>> module1.function1()
 # => Function 1 in module 1
